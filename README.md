@@ -1,5 +1,7 @@
 # Codex with ChatGPT
 
+[English](README.md) | [ภาษาไทย](README.th.md)
+
 > ChatGPT thinks. Codex works.
 > ChatGPT 负责思考，Codex 负责干活。
 
